@@ -68,9 +68,9 @@ namespace RegisterCompanyAndAuth.Extensions
 
         //            Contact = new Contact
         //            {
-        //                Name = "Digitaldoc",
-        //                Email = "digitaldocbr@digitaldoc.com.br",
-        //                Url = "digitaldoc.com.br"
+        //                Name = "",
+        //                Email = "",
+        //                Url = ""
         //            }
 
         //        });
